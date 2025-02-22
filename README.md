@@ -1,4 +1,4 @@
-# 🇱🇦 Laos Flag Representation (HTML & CSS)  
+# Laos Flag Representation (HTML & CSS)  
 
 ## 📖 Overview  
 This repository contains a simple yet visually accurate representation of the **Flag of Laos**, designed using **HTML & CSS**. The flag consists of three horizontal sections:  
@@ -12,8 +12,8 @@ This repository contains a simple yet visually accurate representation of the **
 - 🖌 **Minimalist Code** – Clean and structured HTML & CSS  
 - 🌎 **No JavaScript Required** – Simple and efficient implementation
 
-🛠 Technologies Used
-HTML5 – Structuring the flag layout
-CSS3 – Styling and positioning elements
+## 🛠 Technologies Used
+- HTML5 – Structuring the flag layout
+- CSS3 – Styling and positioning elements
 
 🚀 Happy Coding!
